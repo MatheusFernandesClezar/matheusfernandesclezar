@@ -8,11 +8,14 @@ Nesse período comecei a aprender a programar junto com alguns amigos e isso só
 
 Meu foco por enquanto é aprender e melhorar em HTML, CSS e Javascript.
 
-![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/23abf411-d79c-4ebe-9881-6359783dd545)
+
 
 <a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/23abf411-d79c-4ebe-9881-6359783dd545" width="60" height="60"  target="_blank"></a>
+<a href="#" target="_blank"><img loading="lazy" src="![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2a611374-5a25-4bb9-9632-01cacdc24207)
+" width="60" height="60"  target="_blank"></a>
+<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/23abf411-d79c-4ebe-9881-6359783dd545" width="60" height="60"  target="_blank"></a>
             
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="80" height="80"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="80" height="80"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80"/>
 
           
           
