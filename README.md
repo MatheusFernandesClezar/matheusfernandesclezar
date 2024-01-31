@@ -1,6 +1,6 @@
 <h1>Matheus Fernandes</h1>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="80" height="80"/>   https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="80" height="80"/>   <img loading="lazy" src="https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram" width="80" height="80"/>
 
 
 <h2>Olá, Devs</h2>
