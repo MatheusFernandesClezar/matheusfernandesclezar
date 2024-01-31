@@ -5,7 +5,7 @@
 
 <h2>Olá,Devs!</h2>
 
-Meu nome é Matheus Fernandes Clezar, tenho 22 anos e moro em Arroio do Sal Rio Grande do Sul, comecei a faculdade de Sistema da Informação ee 2020 e desde então venho criando um gosto por aprender mais sobre.
+Meu nome é Matheus Fernandes Clezar, tenho 22 anos e moro em Arroio do Sal, Rio Grande do Sul, comecei a faculdade de Sistema da Informação ee 2020 e desde então venho criando um gosto por aprender mais sobre.
 Nesse período comecei a aprender a programar junto com alguns amigos e isso só reforçou a vontade do aprendizado que eu tenho sobre esse universo da programação.
 
 Meu foco por enquanto é aprender e melhorar em HTML, CSS e Javascript.
