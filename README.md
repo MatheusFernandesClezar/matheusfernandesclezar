@@ -1,8 +1,9 @@
 <h1>Matheus Fernandes</h1>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="80" height="80" />   <img loading="lazy" src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" width="80" height="80" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="80" height="80" /> ![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2f0bc1ae-adc1-45e7-ae8c-3f6c23430d7d)
 
-![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/9acf2f32-1c79-4102-b51c-bed81fc8c507)
+
+
 
 
 Meu nome é Matheus Fernandes Clezar, tenho 22 anos e moro em Arroio do Sal Rio Grande do Sul, comecei a faculdade de Sistema da Informação ee 2020 e desde então venho criando um gosto por aprender mais sobre.
