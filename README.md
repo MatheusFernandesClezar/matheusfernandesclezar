@@ -16,7 +16,7 @@ Meu foco por enquanto é aprender e melhorar em HTML, CSS e Javascript.
 
 <h3>Meu Site que ainda estou desenvolvendo</h3>
 
-<a href="https://matheusfernandesclezar.github.io/html-css/Meu%20Site%20Teste/index.html" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/870cff91-1cc5-4a94-844a-0ff6c33bceed" width="100" height="100"  target="_blank"></a>
+<a href="https://matheusfernandesclezar.github.io/html-css/Meu%20Site%20Teste/index.html" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/870cff91-1cc5-4a94-844a-0ff6c33bceed" width="80" height="80"  target="_blank"></a>
 
          
           
