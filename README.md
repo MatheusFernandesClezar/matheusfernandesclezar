@@ -8,9 +8,9 @@ Nesse período comecei a aprender a programar junto com alguns amigos e isso só
 
 Meu foco por enquanto é aprender e melhorar em HTML, CSS e Javascript.
 
-<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/23abf411-d79c-4ebe-9881-6359783dd545" width="60" height="60"  target="_blank"></a>
-<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2a611374-5a25-4bb9-9632-01cacdc24207" width="60" height="60"  target="_blank"></a>
-<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/033b85c7-3d1e-4454-927c-7344d4f5aed4" width="60" height="60"  target="_blank"></a>
+<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/23abf411-d79c-4ebe-9881-6359783dd545" width="80" height="80"  target="_blank"></a>
+<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2a611374-5a25-4bb9-9632-01cacdc24207" width="80" height="80"  target="_blank"></a>
+<a href="#" target="_blank"><img loading="lazy" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/033b85c7-3d1e-4454-927c-7344d4f5aed4" width="80" height="80"  target="_blank"></a>
 
           
           
