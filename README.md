@@ -1,6 +1,6 @@
 <h1>Matheus Fernandes</h1>
 
-![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/0d2b9eaa-1540-434c-b394-6d4c74a3d5c5)      ![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2f0bc1ae-adc1-45e7-ae8c-3f6c23430d7d)
+<img loading="lazy" href="#" src="https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2f0bc1ae-adc1-45e7-ae8c-3f6c23430d7d" width="80" height="80"/>![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/0d2b9eaa-1540-434c-b394-6d4c74a3d5c5)      ![image](https://github.com/MatheusFernandesClezar/matheusfernandesclezar/assets/155482292/2f0bc1ae-adc1-45e7-ae8c-3f6c23430d7d)
 
 
 
